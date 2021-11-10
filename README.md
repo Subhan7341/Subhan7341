@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Subhan7341
-- 👀 I’m interested in development. 
-- 🌱 I’m currently learning python. 
+- Hi, I’m @Subhan7341
+- I’m interested in development. 
+- I’m currently learning python. 
 - I am Studying in UCP. 
 - my Registration number is L1F19BSCS0300. 
 <!---
